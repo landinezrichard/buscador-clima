@@ -11,7 +11,7 @@ Consulta el clima de una ciudad de los siguientes paises:
 - México.
 - Perú.
 
-Hecho en ainilla JavaScript, con las siguientes caracteristicas:
+Hecho en vainilla JavaScript, con las siguientes caracteristicas:
 
 - Validación de todos los campos requeridos.
 - Utiliza "fetch" para consultas a la API.
